@@ -3,8 +3,8 @@ class Garnet < Formula
   homepage "https://microsoft.github.io/garnet/"
   # Check for dotnet 10 support on release updates
   # https://github.com/microsoft/garnet/blob/main/Directory.Build.props#L4
-  url "https://github.com/microsoft/garnet/archive/refs/tags/v1.0.96.tar.gz"
-  sha256 "cf3f4ea50db7bc0d640bd869793cbaf9b8fc6485b2f34795c4943ed0971a2cb9"
+  url "https://github.com/microsoft/garnet/archive/refs/tags/v1.0.97.tar.gz"
+  sha256 "508b2d4783ae14ba77c9c98d0ed666326af5d7fd117bdf87c59c24da9b6591cc"
   license "MIT"
 
   bottle do
